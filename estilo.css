@@ -1,0 +1,27 @@
+body{
+	background-image: url("populacao.jpg");
+	Background-attachment: fixed;
+	}
+.fil0{
+	fill:#996633;
+	stroke-width:417.77120627;
+	}
+.brasilia{
+	fill:#f6e1b9;
+	stroke-width:417.77120627;
+	}
+
+.capital{
+	fill:#f60000;
+	stroke-width:417.77120627;
+	}
+.municipio{	
+	fill:#FFFF66;
+	stroke-width:417.77120627;
+	}	
+	
+path:hover{
+	fill:#99FFCC;
+	
+	}
+	
